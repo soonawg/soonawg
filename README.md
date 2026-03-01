@@ -17,8 +17,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soonawg&show_icons=true)
-
 ### 📌 Pinned Projects
 - TBA
 
