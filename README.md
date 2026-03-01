@@ -16,7 +16,8 @@
 ![ROS2](https://img.shields.io/badge/ROS2-000?style=flat&logo=ros)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonawg&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soonawg&show_icons=true)
 
 ### 📌 Pinned Projects
 - TBA
