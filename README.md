@@ -10,6 +10,8 @@
 - Reinforcement Learning, Imitation Learning
 - Vision-Language-Action (VLA), safety & evaluation
 
+---
+
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logo=c%2B%2B)
