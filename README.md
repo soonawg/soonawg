@@ -15,10 +15,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logo=c%2B%2B)
 ![ROS2](https://img.shields.io/badge/ROS2-000?style=flat&logo=ros)
 
----
-
-### 📌 Pinned Projects
-- TBA
 
 ---
 
