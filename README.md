@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logo=c%2B%2B)
 ![ROS2](https://img.shields.io/badge/ROS2-000?style=flat&logo=ros)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 
 ---
 
