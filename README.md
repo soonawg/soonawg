@@ -3,6 +3,8 @@
   Robotics • RL • VLA / Embodied AI • ROS2
 </p>
 
+I am currently working as an intern at the DGIST ROBIN Lab.
+
 ---
 
 ### 🔭 Interests
