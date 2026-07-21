@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sangwoo 👋</h1>
 <p align="center">
-  Robotics • RL • VLA / Embodied AI • ROS2
+  Robotics
 </p>
 
 I am currently working as an intern at the DGIST ROBIN Lab.
