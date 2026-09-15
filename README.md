@@ -3,7 +3,7 @@
   Robotics
 </p>
 
-I am currently working as an intern at the DGIST ROBIN Lab.
+I am currently working as an intern at the DGIST ROBIN Lab and doing research at the CJU VICA Lab
 
 ---
 
