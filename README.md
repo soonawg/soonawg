@@ -8,7 +8,7 @@ I am currently working as an intern at the DGIST ROBIN Lab and doing research at
 ---
 
 ### 🔭 Interests
-- Humanoid / Mobile robot autonomy
+- Robot autonomy
 - Reinforcement Learning, Imitation Learning
 - Vision-Language-Action (VLA), safety & evaluation
 - Sim-to-Real
