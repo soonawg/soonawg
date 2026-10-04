@@ -8,7 +8,8 @@
   <a href="https://soonawg.github.io/">Website</a> ·
   <a href="https://scholar.google.com/citations?user=WLGp23AAAAAJ&hl=ko&authuser=3">Google Scholar</a> ·
   <a href="https://orcid.org/0009-0006-5942-2752">ORCID</a> ·
-  <a href="mailto:soonawg@gmail.com">Email</a>
+  <a href="mailto:soonawg@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/sangwoo-han-8a8b59407">LinkedIn</a>
 </p>
 
 ---
