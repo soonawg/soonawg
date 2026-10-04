@@ -29,11 +29,6 @@ I work toward robust and generalizable robotic agents that can perceive and act 
 
 A simulation-only project that tracks hand motion with MediaPipe and retargets finger movements to an Allegro Hand V3 in a MuJoCo tabletop scene. It does not control physical robot hardware.
 
-<p align="center">
-  <a href="https://github.com/soonawg/Dex-Keypoint">
-    <img src="https://raw.githubusercontent.com/soonawg/Dex-Keypoint/main/docs/images/allegro-teleop-preview.gif" width="540" alt="MediaPipe hand tracking driving an Allegro Hand V3 in MuJoCo" />
-  </a>
-</p>
 
 ### Selected Publication
 
@@ -46,4 +41,12 @@ A simulation-only project that tracks hand motion with MediaPipe and retargets f
 
 ### Tools
 
-Python · MediaPipe · MuJoCo
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
+![ROS 2](https://img.shields.io/badge/ROS_2-000?style=flat&logo=ros)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-000?style=flat&logo=nvidia)
+![Drake](https://img.shields.io/badge/Drake-000?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-000?style=flat&logo=google)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000?style=flat)
