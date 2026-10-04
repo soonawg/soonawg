@@ -27,9 +27,6 @@ I work toward robust and generalizable robotic agents that can perceive and act 
 
 #### [Dex-Keypoint: Webcam-Based Dexterous Hand Teleoperation](https://github.com/soonawg/Dex-Keypoint)
 
-A simulation-only project that tracks hand motion with MediaPipe and retargets finger movements to an Allegro Hand V3 in a MuJoCo tabletop scene. It does not control physical robot hardware.
-
-
 ### Selected Publication
 
 - **Sangwoo Han**, Hyunguk Choi. [“ROEP: A Robotics-Oriented Evaluation Protocol for Deployment-Facing Vision-Language-Action Manipulation Policies.”](https://doi.org/10.3390/s26154757) *Sensors*, 2026.
