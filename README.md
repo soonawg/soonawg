@@ -23,10 +23,6 @@ I work toward robust and generalizable robotic agents that can perceive and act 
 - **Humanoid vision-based control** — enabling humanoids to perceive and interact with their surroundings.
 - **Robot foundation models** — developing generalizable capabilities for long-horizon tasks.
 
-### Selected Project
-
-#### [Dex-Keypoint: Webcam-Based Dexterous Hand Teleoperation](https://github.com/soonawg/Dex-Keypoint)
-
 ### Selected Publication
 
 - **Sangwoo Han**, Hyunguk Choi. [“ROEP: A Robotics-Oriented Evaluation Protocol for Deployment-Facing Vision-Language-Action Manipulation Policies.”](https://doi.org/10.3390/s26154757) *Sensors*, 2026.
