@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sangwoo Han 👋</h1>
 
 <p align="center">
-  Undergraduate researcher in robotics, interested in dexterous manipulation and Physical AI. (Incoming Ph.D Students)
+  Undergraduate researcher in robotics, interested in dexterous manipulation and Physical AI. (Incoming Ph.D Students @ DGIST ROBIN Lab)
 </p>
 
 <p align="center">
